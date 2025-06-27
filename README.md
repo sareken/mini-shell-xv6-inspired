@@ -1,6 +1,3 @@
-# mini-shell-xv6-inspired
-This project is a simplified shell implementation written in C, inspired by XV6. It supports execution of commands, input/output redirection (&lt;, >), piping (|), and background execution (&amp;).
-
 ## Assignment Questions and My Implementations
 This project is based on the 4 assignment questions given by the instructor. The original code provided by the instructor had some parts left empty or incomplete.
 
